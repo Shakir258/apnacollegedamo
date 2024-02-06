@@ -1,1 +1,2 @@
-# apnacollegedamo
+# apnacollege-demo
+author - shakir
